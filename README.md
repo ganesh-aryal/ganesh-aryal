@@ -1,11 +1,11 @@
-[![MasterHead](Put_ANy_PIC_LINK)]
+Masters of Science in Information Technology
 
 # Ganesh Aryal
 
-🌍 Valparaiso, IN  
+🌍Virginia, Ashburn  
 📧 ganesh.aryal192@gmail.com  
 📞 219.986.9014  
-🔗 [LinkedIn](YOUR_LINKEDIN_PROFILE) | [GitHub](YOUR_GITHUB_PROFILE) | [Tableau](YOUR_TABLEAU_PROFILE)
+🔗https://public.tableau.com/app/profile/ganesh.aryal/vizzes
 
 ---
 
@@ -91,4 +91,3 @@ National Innovation Center, Lalitpur, Nepal - Off-road and Indoor Smart Wheelcha
 Feel free to reach out for collaborations or further opportunities!
 
 📧 ganesh.aryal192@gmail.com  
-🔗 [LinkedIn](YOUR_LINKEDIN_PROFILE) | [GitHub](YOUR_GITHUB_PROFILE) | [Tableau](YOUR_TABLEAU_PROFILE)
